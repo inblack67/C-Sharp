@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{594D3366-8089-42E6-8F83-987EFBEC8D97}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Utilities.cs">
+    <Files>
+      <File FileName="Generics/Program.cs" Line="16" Column="76" />
+      <File FileName="Generics/Books.cs" Line="6" Column="41" />
+      <File FileName="Generics/Product.cs" Line="6" Column="42" />
+      <File FileName="Generics/GenericList.cs" Line="8" Column="1" />
+      <File FileName="Generics/GenericDictionary.cs" Line="8" Column="12" />
+      <File FileName="Generics/Utilities.cs" Line="14" Column="10" />
+      <File FileName="Generics/DiscountCalculator.cs" Line="14" Column="1" />
+      <File FileName="Generics/Nullable.cs" Line="22" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics" expanded="True">
+            <Node name="Generics" expanded="True">
+              <Node name="Utilities.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
