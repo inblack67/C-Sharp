@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText.dll
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/bin/Debug/netcoreapp3.0/SummarizingText.pdb
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/obj/Debug/netcoreapp3.0/SummarizingText.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/obj/Debug/netcoreapp3.0/SummarizingText.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/obj/Debug/netcoreapp3.0/SummarizingText.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/obj/Debug/netcoreapp3.0/SummarizingText.dll
+/Users/ryuzaki/Desktop/black-git/C#/SummarizingText/SummarizingText/obj/Debug/netcoreapp3.0/SummarizingText.pdb

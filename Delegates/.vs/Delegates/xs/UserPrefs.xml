@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{78390409-45E4-4C21-8CF1-B96FFC746ECF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates/PhotoProcessor.cs">
+    <Files>
+      <File FileName="Delegates/Program.cs" Line="11" Column="29" />
+      <File FileName="Delegates/PhotoFilters.cs" Line="16" Column="44" />
+      <File FileName="Delegates/PhotoProcessor.cs" Line="10" Column="38" />
+      <File FileName="Delegates/Photo.cs" Line="7" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Delegates FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
