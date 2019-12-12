@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly.dll
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/bin/Debug/netcoreapp3.0/ReadOnly.pdb
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/obj/Debug/netcoreapp3.0/ReadOnly.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/obj/Debug/netcoreapp3.0/ReadOnly.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/obj/Debug/netcoreapp3.0/ReadOnly.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/obj/Debug/netcoreapp3.0/ReadOnly.dll
+/Users/ryuzaki/Desktop/black-git/C#/ReadOnly/ReadOnly/obj/Debug/netcoreapp3.0/ReadOnly.pdb

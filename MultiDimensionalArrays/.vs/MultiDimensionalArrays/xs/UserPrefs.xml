@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0A80A922-1513-49F2-9250-C0A2D4D4AC03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SummarizingText/Program.cs">
+﻿<Properties StartupConfiguration="{E8F07DEF-5B83-45C7-A9DA-4F6C918C81A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiDimensionalArrays/Program.cs">
     <Files>
-      <File FileName="SummarizingText/Program.cs" Line="1" Column="1" />
+      <File FileName="MultiDimensionalArrays/Program.cs" Line="17" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SummarizingText" expanded="True">
-            <Node name="SummarizingText" expanded="True">
+          <Node name="MultiDimensionalArrays" expanded="True">
+            <Node name="MultiDimensionalArrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SummarizingText PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MultiDimensionalArrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

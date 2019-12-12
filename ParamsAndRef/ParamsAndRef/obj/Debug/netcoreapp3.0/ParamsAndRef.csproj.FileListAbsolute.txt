@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef.dll
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/bin/Debug/netcoreapp3.0/ParamsAndRef.pdb
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/obj/Debug/netcoreapp3.0/ParamsAndRef.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/obj/Debug/netcoreapp3.0/ParamsAndRef.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/obj/Debug/netcoreapp3.0/ParamsAndRef.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/obj/Debug/netcoreapp3.0/ParamsAndRef.dll
+/Users/ryuzaki/Desktop/black-git/C#/ParamsAndRef/ParamsAndRef/obj/Debug/netcoreapp3.0/ParamsAndRef.pdb

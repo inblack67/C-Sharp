@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays.dll
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/netcoreapp3.0/MultiDimensionalArrays.pdb
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/netcoreapp3.0/MultiDimensionalArrays.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/netcoreapp3.0/MultiDimensionalArrays.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/netcoreapp3.0/MultiDimensionalArrays.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/netcoreapp3.0/MultiDimensionalArrays.dll
+/Users/ryuzaki/Desktop/black-git/C#/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/netcoreapp3.0/MultiDimensionalArrays.pdb

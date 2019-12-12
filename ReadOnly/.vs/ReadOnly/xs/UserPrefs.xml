@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0A80A922-1513-49F2-9250-C0A2D4D4AC03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SummarizingText/Program.cs">
+﻿<Properties StartupConfiguration="{0BCF1FDE-0198-4972-ADD8-675952C25FD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadOnly/Program.cs">
     <Files>
-      <File FileName="SummarizingText/Program.cs" Line="1" Column="1" />
+      <File FileName="ReadOnly/Program.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SummarizingText" expanded="True">
-            <Node name="SummarizingText" expanded="True">
+          <Node name="ReadOnly" expanded="True">
+            <Node name="ReadOnly" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SummarizingText PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReadOnly PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
