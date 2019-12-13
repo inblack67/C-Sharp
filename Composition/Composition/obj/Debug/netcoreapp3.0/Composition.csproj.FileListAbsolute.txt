@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition.dll
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/bin/Debug/netcoreapp3.0/Composition.pdb
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/obj/Debug/netcoreapp3.0/Composition.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/obj/Debug/netcoreapp3.0/Composition.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/obj/Debug/netcoreapp3.0/Composition.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/obj/Debug/netcoreapp3.0/Composition.dll
+/Users/ryuzaki/Desktop/black-git/C#/Composition/Composition/obj/Debug/netcoreapp3.0/Composition.pdb

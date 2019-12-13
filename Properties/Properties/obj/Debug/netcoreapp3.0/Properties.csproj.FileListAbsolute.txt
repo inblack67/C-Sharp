@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties.dll
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/bin/Debug/netcoreapp3.0/Properties.pdb
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/obj/Debug/netcoreapp3.0/Properties.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/obj/Debug/netcoreapp3.0/Properties.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/obj/Debug/netcoreapp3.0/Properties.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/obj/Debug/netcoreapp3.0/Properties.dll
+/Users/ryuzaki/Desktop/black-git/C#/Properties/Properties/obj/Debug/netcoreapp3.0/Properties.pdb

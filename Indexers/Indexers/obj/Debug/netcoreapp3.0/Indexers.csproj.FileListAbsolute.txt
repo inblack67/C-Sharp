@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers.dll
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/bin/Debug/netcoreapp3.0/Indexers.pdb
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/obj/Debug/netcoreapp3.0/Indexers.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/obj/Debug/netcoreapp3.0/Indexers.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/obj/Debug/netcoreapp3.0/Indexers.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/obj/Debug/netcoreapp3.0/Indexers.dll
+/Users/ryuzaki/Desktop/black-git/C#/Indexers/Indexers/obj/Debug/netcoreapp3.0/Indexers.pdb
