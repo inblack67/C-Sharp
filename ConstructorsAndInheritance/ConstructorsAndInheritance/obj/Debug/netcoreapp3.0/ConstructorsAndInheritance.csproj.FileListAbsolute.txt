@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance.dll
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/netcoreapp3.0/ConstructorsAndInheritance.pdb
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/netcoreapp3.0/ConstructorsAndInheritance.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/netcoreapp3.0/ConstructorsAndInheritance.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/netcoreapp3.0/ConstructorsAndInheritance.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/netcoreapp3.0/ConstructorsAndInheritance.dll
+/Users/ryuzaki/Desktop/black-git/C#/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/netcoreapp3.0/ConstructorsAndInheritance.pdb
