@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions.dll
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/bin/Debug/netcoreapp3.0/LambdaExpressions.pdb
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp3.0/LambdaExpressions.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp3.0/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp3.0/LambdaExpressions.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp3.0/LambdaExpressions.dll
+/Users/ryuzaki/Desktop/black-git/C#/LambdaExpressions/LambdaExpressions/obj/Debug/netcoreapp3.0/LambdaExpressions.pdb

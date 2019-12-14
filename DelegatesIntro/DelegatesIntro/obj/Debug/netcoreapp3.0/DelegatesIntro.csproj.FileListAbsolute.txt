@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro.dll
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/bin/Debug/netcoreapp3.0/DelegatesIntro.pdb
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/obj/Debug/netcoreapp3.0/DelegatesIntro.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/obj/Debug/netcoreapp3.0/DelegatesIntro.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/obj/Debug/netcoreapp3.0/DelegatesIntro.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/obj/Debug/netcoreapp3.0/DelegatesIntro.dll
+/Users/ryuzaki/Desktop/black-git/C#/DelegatesIntro/DelegatesIntro/obj/Debug/netcoreapp3.0/DelegatesIntro.pdb
