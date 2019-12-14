@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro.dll
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/bin/Debug/netcoreapp3.0/GenericsIntro.pdb
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/obj/Debug/netcoreapp3.0/GenericsIntro.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/obj/Debug/netcoreapp3.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/obj/Debug/netcoreapp3.0/GenericsIntro.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/obj/Debug/netcoreapp3.0/GenericsIntro.dll
+/Users/ryuzaki/Desktop/black-git/C#/GenericsIntro/GenericsIntro/obj/Debug/netcoreapp3.0/GenericsIntro.pdb
