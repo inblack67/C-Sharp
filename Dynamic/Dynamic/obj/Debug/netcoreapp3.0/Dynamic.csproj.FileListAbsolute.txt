@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic.dll
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/bin/Debug/netcoreapp3.0/Dynamic.pdb
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/obj/Debug/netcoreapp3.0/Dynamic.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/obj/Debug/netcoreapp3.0/Dynamic.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/obj/Debug/netcoreapp3.0/Dynamic.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/obj/Debug/netcoreapp3.0/Dynamic.dll
+/Users/ryuzaki/Desktop/black-git/C#/Dynamic/Dynamic/obj/Debug/netcoreapp3.0/Dynamic.pdb
