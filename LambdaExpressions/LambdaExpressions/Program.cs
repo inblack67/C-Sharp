@@ -20,10 +20,7 @@ namespace LambdaExpressions
                 new Book() { Title="Title 3", Price=17}
             };
         }
-
     }
-
-
 
     class Program
     {
@@ -49,15 +46,12 @@ namespace LambdaExpressions
             {
                 Console.WriteLine(book.Title);
             }
-
         }
 
         //static bool IsCheaperThan10Dollars(Book book)
         //{
         //    return book.Price < 10;
         //}
-
-
 
         //public int Square(int n)
         //{

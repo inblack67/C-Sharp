@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events.dll
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/bin/Debug/netcoreapp3.0/Events.pdb
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/obj/Debug/netcoreapp3.0/Events.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/obj/Debug/netcoreapp3.0/Events.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/obj/Debug/netcoreapp3.0/Events.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/obj/Debug/netcoreapp3.0/Events.dll
+/Users/ryuzaki/Desktop/black-git/C#/Events/Events/obj/Debug/netcoreapp3.0/Events.pdb
