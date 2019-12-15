@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.dll
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/bin/Debug/netcoreapp3.0/NullableTypes.pdb
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.dll
+/Users/ryuzaki/Desktop/black-git/C#/NullableTypes/NullableTypes/obj/Debug/netcoreapp3.0/NullableTypes.pdb

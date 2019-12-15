@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{016B147C-B9F6-4FAA-BC70-C31625D6F0F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NullableTypes/Program.cs">
+    <Files>
+      <File FileName="NullableTypes/Program.cs" Line="27" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NullableTypes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NullableTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
