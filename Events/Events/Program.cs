@@ -20,8 +20,12 @@ namespace Events
         //public delegate void VideoEncodedEventHandler(object source, EventArgs args);
         public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
 
+        // built in even handler
+        // EventHandler or EventHandler<EventArgs>
+
         // 2) Defining an event based on the delegate
         public event VideoEncodedEventHandler VideoEncoded;
+        //public event EvenHandler<VideoEventArgs> VideoEncoded;
 
         public void Encode(Video video) // this must send the video data to the event that follows
         {

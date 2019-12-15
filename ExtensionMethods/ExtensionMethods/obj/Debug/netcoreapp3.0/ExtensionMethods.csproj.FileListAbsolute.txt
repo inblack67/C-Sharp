@@ -1,0 +1,11 @@
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.deps.json
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.runtimeconfig.json
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.runtimeconfig.dev.json
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.dll
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/bin/Debug/netcoreapp3.0/ExtensionMethods.pdb
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.csprojAssemblyReference.cache
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.AssemblyInfo.cs
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.dll
+/Users/ryuzaki/Desktop/black-git/C#/ExtensionMethods/ExtensionMethods/obj/Debug/netcoreapp3.0/ExtensionMethods.pdb
