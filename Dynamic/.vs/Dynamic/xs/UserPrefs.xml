@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{43069535-5BD9-4557-9591-418EEABDF90E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Dynamic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Dynamic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Dynamic/Program.cs">
     <Files>
-      <File FileName="Dynamic/Program.cs" Line="1" Column="1" />
+      <File FileName="Dynamic/Program.cs" Line="27" Column="26" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dynamic" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
