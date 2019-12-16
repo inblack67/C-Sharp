@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9475141B-EB0A-428C-B047-B6FEAC9A2927}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling/CustomException1.cs">
+    <Files>
+      <File FileName="ExceptionHandling/Program.cs" Line="34" Column="23" />
+      <File FileName="ExceptionHandling/CustomExceptions.cs" Line="27" Column="38" />
+      <File FileName="ExceptionHandling/CustomException1.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExceptionHandling" expanded="True">
+            <Node name="ExceptionHandling" expanded="True">
+              <Node name="CustomException1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
